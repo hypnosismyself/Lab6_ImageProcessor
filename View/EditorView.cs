@@ -85,7 +85,7 @@ namespace Lab6_ImageProcessor
         private void AbotToolStripMenuItem_Click(object sender, EventArgs e)
         {
             MessageBox.Show(
-                "Простой блокнот | Автор Никольский В.А. ЗЦИС-27",
+                "Редактор изображений | Автор Никольский В.А. ЗЦИС-27",
                 "О программе",
                 MessageBoxButtons.OK,
                 MessageBoxIcon.Information
